@@ -1,4 +1,4 @@
-# Hi there, I'm [Ruhul Amin][website]👨‍💻
+# Hi there, I'm [Ruhul Amin]👨‍💻
 
 ### Welcome to my GitHub's World👋
 
@@ -19,13 +19,5 @@
 
 <img width="550px" alt="Ruhul Amin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=amin-ruhul14&show_icons=true&theme=radical"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-ruhul14&card_width=550&)](https://github.com/amin-ruhul14/amin-ruhul14)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-ruhul14&card_width=550&theme=radical)](https://github.com/amin-ruhul14/amin-ruhul14)
 
-[website]: 
-[medium]: 
-[twitter]: https://twitter.com/amin_ruhul14
-[linkedin]: https://www.linkedin.com/in/aminruhul14/
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]: 
