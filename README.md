@@ -5,7 +5,7 @@
 ## I'm a JavaScript Enthusiast!🚀
 
 - 💻 I'm passionate about what I learn and apply them into real life.
-- ⌚ 2020 Goals: Learn MERN Stack.
+- ⌚ 2021 Goals: Learn MERN Stack.
 - 🌐 Fun fact: I love to Explore the world.
 
 ### Connect with me:
