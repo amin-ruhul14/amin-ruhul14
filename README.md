@@ -1,4 +1,4 @@
-# Hi there, I'm [https://aminruhul.com/]👨‍💻
+# Hi there, I'm [Amin Ruhul]👨‍💻
 
 ### Welcome to my GitHub's World👋
 
